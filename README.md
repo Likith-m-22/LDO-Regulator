@@ -40,7 +40,5 @@ This is my **first complete PCB design**, and it was built from scratch using Al
 ---
 
 ## 🖥️ Schematic
-
-*(Add your schematic image or PDF here once exported)*  
-Example:
+<img width="1526" height="605" alt="image" src="https://github.com/user-attachments/assets/097529b7-9a7c-45d2-ab80-1e274d2b784c" />
 
