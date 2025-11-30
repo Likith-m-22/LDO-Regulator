@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LDO_converter.PrjPcb]
+   Generated File[LDO_PCB.GTO]
+   Generated File[LDO_PCB.GTP]
+   Generated File[LDO_PCB.GTS]
+   Generated File[LDO_PCB.GTL]
+   Generated File[LDO_PCB.GBL]
+   Generated File[LDO_PCB.GBS]
+   Generated File[LDO_PCB.GBP]
+   Generated File[LDO_PCB.GBO]
+   Generated File[LDO_PCB.GM]
+   Generated File[LDO_PCB.EXTREP]
+   Generated File[LDO_PCB.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 03:22:17 On 01-12-2025
